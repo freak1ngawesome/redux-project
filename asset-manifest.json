@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/redux-project/static/css/main.2845cdde.chunk.css",
+    "main.js": "/redux-project/static/js/main.bee30e0c.chunk.js",
+    "main.js.map": "/redux-project/static/js/main.bee30e0c.chunk.js.map",
+    "runtime~main.js": "/redux-project/static/js/runtime~main.3ebf95e2.js",
+    "runtime~main.js.map": "/redux-project/static/js/runtime~main.3ebf95e2.js.map",
+    "static/js/2.cef0fd05.chunk.js": "/redux-project/static/js/2.cef0fd05.chunk.js",
+    "static/js/2.cef0fd05.chunk.js.map": "/redux-project/static/js/2.cef0fd05.chunk.js.map",
+    "index.html": "/redux-project/index.html",
+    "precache-manifest.574542036420c5e0c13a20413b81b860.js": "/redux-project/precache-manifest.574542036420c5e0c13a20413b81b860.js",
+    "service-worker.js": "/redux-project/service-worker.js",
+    "static/css/main.2845cdde.chunk.css.map": "/redux-project/static/css/main.2845cdde.chunk.css.map",
+    "static/media/food-bg.jpg": "/redux-project/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/redux-project/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
